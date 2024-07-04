@@ -144,19 +144,7 @@ RootFolder/
 └── tailwind.config.js
 └── tsconfig.json
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Here is what is inside each of the files, except for package-lock.json, which is too long but is available in raw form @ https://raw.githubusercontent.com/classicvalues/laudate-corpus-nextjs/main/package-lock.json
 
 src/app/:
 about:
